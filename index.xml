@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>New Site</title>
+    <link>https://shawn0.github.io/</link>
+    <description>Recent content on New Site</description>
+    <image>
+      <title>New Site</title>
+      <url>https://shawn0.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://shawn0.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://shawn0.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Testpost</title>
+      <link>https://shawn0.github.io/testpost/</link>
+      <pubDate>Wed, 03 Jan 2024 11:34:40 +0800</pubDate>
+      <guid>https://shawn0.github.io/testpost/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
