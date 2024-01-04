@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Jan 2024 21:34:33 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jan 2024 22:11:42 +0800</lastBuildDate>
     <atom:link href="https://shawn0.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Second</title>
+      <link>https://shawn0.github.io/post/second/</link>
+      <pubDate>Thu, 04 Jan 2024 22:11:42 +0800</pubDate>
+      <guid>https://shawn0.github.io/post/second/</guid>
+      <description>如何进步 对自己不设限，对外人、事不预设判断，进步自然呈现。</description>
+    </item>
     <item>
       <title>Test Post</title>
       <link>https://shawn0.github.io/post/first/</link>
