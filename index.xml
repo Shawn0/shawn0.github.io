@@ -1,17 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>New Site</title>
+    <title>The Spiral</title>
     <link>https://shawn0.github.io/</link>
-    <description>Recent content on New Site</description>
+    <description>Recent content on The Spiral</description>
     <image>
-      <title>New Site</title>
+      <title>The Spiral</title>
       <url>https://shawn0.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://shawn0.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <atom:link href="https://shawn0.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test Post</title>
+      <link>https://shawn0.github.io/xxx/</link>
+      <pubDate>Thu, 04 Jan 2024 10:04:32 +0800</pubDate>
+      <guid>https://shawn0.github.io/xxx/</guid>
+      <description>如何寻找特定的 GPTs 这次咱们直接使用搜索引擎来查找。我们可以在 Google 中轻松完成这项任务，只需搜索特定类别的 GPT，例如输入关键词为 “Literature Review GPT”。注意要在特定的域名下进行搜索，目前所有这些 GPTs 都以 “chat.openai.com/g” 作为统一前缀。
+利用这个限制条件，把它作为 site: 关键词的取值，我们就能获得各种 GPTs 的链接。这里我列出的只是前两项，实际上还有更多。</description>
+    </item>
     <item>
       <title>Testpost</title>
       <link>https://shawn0.github.io/testpost/</link>
