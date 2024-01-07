@@ -11,8 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Jan 2024 18:36:47 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jan 2024 19:09:22 +0800</lastBuildDate>
     <atom:link href="https://shawn0.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>亚马逊的6页纸</title>
+      <link>https://shawn0.github.io/post/amazon/</link>
+      <pubDate>Sun, 07 Jan 2024 19:09:22 +0800</pubDate>
+      <guid>https://shawn0.github.io/post/amazon/</guid>
+      <description>贝索斯禁止使用PowerPoint（演示文稿，而是转向六页模式，PowerPoint经常忽略重要细节，过于注重美观而非内容。
+如何撰写6页报告： 文件目的：简要概述报告的原因，并在本节中提出一个推荐的解决方案。 叙述：描述背景、指导方针和总体框架，让每个人都能充分理解问题。 问题：详细概述问题。 解决方案：描述多种解决问题的思路。 建议：根据解决方案提出建议。 行动计划。 </description>
+    </item>
     <item>
       <title>我对未来的期望不是不犯错误</title>
       <link>https://shawn0.github.io/post/second/</link>
